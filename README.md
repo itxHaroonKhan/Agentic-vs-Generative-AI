@@ -1,3 +1,25 @@
+# 🤖 AI Engineer Roadmap 2025
+
+A step-by-step path to become a modern AI Engineer focused on Agentic and Generative AI technologies.
+
+---
+
+## 📚 Learning Checklist
+
+1. **Python**
+2. **AI Theory – Terminologies**
+3. **FastAPI**
+4. **Database (SQL, NoSQL)**
+5. **Third-party libraries – NumPy, pandas, OpenCV**
+6. **Model development lifecycle – Keras**
+7. **LLMs – Gemini / OpenAI / Allama**
+8. **LLM Framework – LangChain**
+9. **Agentic Framework – LangGraph**
+10. **Cloud Computing / DevOps – Docker, etc.**
+11. **Frontend (Next.js) – Chatbot UI / Agent**
+
+---
+
 # 🤖 Agentic AI vs 🎨 Generative AI  
 ### *Future of Artificial Intelligence Simplified in Roman Urdu*
 
@@ -68,4 +90,3 @@ Aap kehain: `Mujhe ek blog likh ke do`
 - **Future** = Agentic AI zyada useful aur dominant hoga  
 
 ---
-
